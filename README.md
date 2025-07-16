@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a third-year informatics student at Sepuluh Nopember Institute of Technology with a profound interest in data science. Through various projects involving regression, classification, clustering, and NLP, I've developed strong analytical skills and technical expertise.<br><br>I graduated from the Data Science Bootcamp at Digital Skola with excellent grades and have practical experience as a junior data scientist intern at Deepublish, where I worked on customer behavior analysis and predictive modeling.
+<div align="justify">
+Third-year student of informatics from the Sepuluh Nopember Institute of Technology with a profound interest in working as a data scientist. Experienced in working on projects with regression, classification, clustering, and natural language processing (NLP) problems to extract valuable insights and make strategic decisions. Through these projects, skills in data science, machine learning, and data analysis have been honed. Graduated from the Data Science Bootcamp organized by Digital Skola with excellent grades and has experience as a junior data scientist intern at Deepublish, working on customer behavior analysis and predictive modeling.
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maruligilbert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruligilbert) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maruligilbert@outlook.com) 
@@ -20,4 +22,6 @@ I'm a third-year informatics student at Sepuluh Nopember Institute of Technology
 <img src="https://raw.githubusercontent.com/MaruliHTGL/MaruliHTGL/output/snake.svg" alt="Snake animation" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaruliHTGL&icon=5&color=7)](https://visitcount.itsvg.in)
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MaruliHTGL.MaruliHTGL&right_color=orangered"  />
