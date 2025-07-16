@@ -22,6 +22,5 @@ Third-year student of informatics from the Sepuluh Nopember Institute of Technol
 <img src="https://raw.githubusercontent.com/MaruliHTGL/MaruliHTGL/output/snake.svg" alt="Snake animation" />
 
 ---
-<br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MaruliHTGL.MaruliHTGL&right_color=orangered"  />
