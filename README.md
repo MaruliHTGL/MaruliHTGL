@@ -22,9 +22,11 @@ Third-year student of informatics from the Sepuluh Nopember Institute of Technol
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaruliHTGL&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaruliHTGL&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaruliHTGL&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaruliHTGL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MaruliHTGL&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaruliHTGL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaruliHTGL&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
