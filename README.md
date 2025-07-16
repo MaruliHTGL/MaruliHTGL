@@ -15,5 +15,7 @@ I'm a third-year informatics student at Sepuluh Nopember Institute of Technology
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaruliHTGL&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/MaruliHTGL/MaruliHTGL/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MaruliHTGL&icon=5&color=7)](https://visitcount.itsvg.in)
