@@ -1,6 +1,6 @@
 ## 💫 About Me:
 <div align="justify">
-Third-year student of informatics from the Sepuluh Nopember Institute of Technology with a profound interest in working as a data scientist. Experienced in working on projects with regression, classification, clustering, and natural language processing (NLP) problems to extract valuable insights and make strategic decisions. Through these projects, skills in data science, machine learning, and data analysis have been honed. Graduated from the Data Science Bootcamp organized by Digital Skola with excellent grades and has experience as a junior data scientist intern at Deepublish, working on customer behavior analysis and predictive modeling.
+Informatics fresh graduate from Sepuluh Nopember Institute of Technology with hands-on experience in data science, data analysis, machine learning, and management. Passionate about turning data into valuable insights and bridging AI initiatives with strategic business decisions.
 </div>
 
 <br clear="both">
